@@ -1,3 +1,3 @@
-export default function ReTrello() {
-    return <div>Hello, ReTrello!</div>;
+export default function ReViber() {
+    return <div>Hello, ReViber!</div>;
 };
